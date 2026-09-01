@@ -6,14 +6,14 @@
  
 1. Buat security group server web : 
 
-    sg-webserver
+    webserver-sg
     
     ```allow inbound 22,80, ICMP from 0.0.0.0/0 (anywhere)```
 
 
 2. Buat security group database SQL : 
 
-    sg-database
+    database-sg
     
     ```allow inbound 3306 from 0.0.0.0/0 (anywhere)```
 

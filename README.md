@@ -15,7 +15,7 @@
 
     database-sg
     
-    ```allow inbound 3306 from 0.0.0.0/0 (anywhere)```
+    ```allow inbound MySQL (3306) from 0.0.0.0/0 (anywhere)```
 
 ### B. Buat RDS
 ### C. Buat Mesin (Instance EC2) Ubuntu

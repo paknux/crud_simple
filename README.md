@@ -1,1 +1,1 @@
-Aplikasi CRUD Simpla 
+Aplikasi CRUD Simple 

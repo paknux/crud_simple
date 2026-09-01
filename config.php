@@ -1,5 +1,5 @@
 <?php
-
+ 
 include '.env';
 
 $conn = new mysqli($host, $user, $pass);

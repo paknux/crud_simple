@@ -3,7 +3,7 @@
 ## Langkah Kerja
 
 ### A. Buat Security Group
-
+ 
 1. Buat security group server web : 
 
     sg-webserver

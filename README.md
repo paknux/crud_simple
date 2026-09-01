@@ -20,3 +20,7 @@
 ### B. Buat RDS
 ### C. Buat Mesin (Instance EC2) Ubuntu
 
+```bash
+sudo apt update
+sudo apt install apache2 php php-mysqli php-mysql libapache2-mod-php
+```

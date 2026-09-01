@@ -8,7 +8,7 @@
 
     webserver-sg
     
-    ```allow inbound 22,80, ICMP from 0.0.0.0/0 (anywhere)```
+    ```allow inbound SSH (22), HTTP (80), dan ICMP from 0.0.0.0/0 (anywhere)```
 
 
 2. Buat security group database SQL : 

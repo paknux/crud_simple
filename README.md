@@ -22,5 +22,5 @@
 
 ```bash
 sudo apt update
-sudo apt install apache2 php php-mysqli php-mysql libapache2-mod-php
+sudo apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
 ```

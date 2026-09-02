@@ -20,14 +20,14 @@
 ### B. Buat RDS
 ### C. Buat Mesin (Instance EC2) Ubuntu
 
+1. Masuk dapat menggunakan SSM
+    ```bash
+    bash 
+    ```
 
-```bash
-bash 
-```
 
-
-
-```bash
-sudo apt update
-sudo apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
-```
+2. Install Paket yang diperlukan
+    ```bash
+    sudo apt update
+    sudo apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
+    ```

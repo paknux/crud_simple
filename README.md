@@ -22,12 +22,19 @@
 
 1. Masuk dapat menggunakan SSM
     ```bash
-    bash 
+    $  bash 
+    $  sudo su
+    #
     ```
 
 
 2. Install Paket yang diperlukan
     ```bash
-    sudo apt update
-    sudo apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
+    #  apt update
+    #  apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
+    ```
+
+3. Masuk ke DocumentRoot
+    ```bash
+    #  cd /var/www/html
     ```

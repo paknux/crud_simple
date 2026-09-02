@@ -34,7 +34,9 @@
     #  apt install git apache2 php php-mysqli php-mysql libapache2-mod-php
     ```
 
-3. Masuk ke DocumentRoot
+3. Masuk ke DocumentRoot dan hapus semua isinya
     ```bash
     #  cd /var/www/html
+    #  rm -rf *
+    #  rm -rf .*
     ```
